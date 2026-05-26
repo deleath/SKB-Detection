@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pt
+*.onnx
+data/
+runs/
+
+# Unity — не заливаем генерируемые папки
+Unity/SKB_Detection/Library/
+Unity/SKB_Detection/Temp/
+Unity/SKB_Detection/Logs/
+Unity/SKB_Detection/obj/
+Unity/SKB_Detection/Build/
+Unity/SKB_Detection/.vs/
+Unity/SKB_Detection/UserSettings/
